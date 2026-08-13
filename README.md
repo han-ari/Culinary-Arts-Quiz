@@ -3,7 +3,7 @@
 An interactive quiz application that showcases my progress in mastering front-end development, specifically focusing on complex JavaScript logic and DOM manipulation.
 
 ## Live Site
-[View Portolio on GitHub Pages](https://hanari-dev.github.io/Culinary-Arts-Quiz/)
+[View Site on GitHub Pages](https://hanari-dev.github.io/Culinary-Arts-Quiz/)
 
 ## Languages
 * **HTML5:** Semantic structure, interactive forms, and accessibility-first design.
